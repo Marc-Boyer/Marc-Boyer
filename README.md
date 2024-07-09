@@ -1,4 +1,4 @@
-I’m @Marc-Boyer, french researcher on embbedded networks.
+I’m @Marc-Boyer, french researcher on embbedded networks (CAN, AFDX, TSN).
 For more details see my WEB page http://www.onera.fr/staff/marc-boyer/
 
 
